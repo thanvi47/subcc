@@ -1,2 +1,2 @@
-# subcc
+## subcc
 Computing Club
