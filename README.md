@@ -1,4 +1,3 @@
 ## subcc
 
 Computing Club 
-
